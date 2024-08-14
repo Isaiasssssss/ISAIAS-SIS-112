@@ -25,3 +25,4 @@ Pero tambien podemos hacerlo directamente desde la terminal de **Git bash** si y
 Por ultimo para entrar a nuestro repositorio clonado usamos el comando cd **Nombre del repositorio** por ejemplo: 
 
 **cd ISAIAS-SIS-112**
+...
